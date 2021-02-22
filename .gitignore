@@ -1,3 +1,4 @@
 *.jpg
 **/*.csv
 *.txt
+PIMA/.ipynb_checkpoints/Rapport-checkpoint.ipynb
